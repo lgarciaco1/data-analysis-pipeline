@@ -1,0 +1,272 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Language" content="en">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width">
+        <meta content="origin-when-cross-origin" name="referrer" />
+        
+            
+                <meta name="name" content="title" />
+            
+                <meta name="content" content="candlestick made by Lgarciaco1 | plotly" />
+            
+        
+            
+                <meta name="name" content="image" />
+            
+                <meta name="content" content="https://plot.ly/~lgarciaco1/0.png" />
+            
+        
+            
+                <meta name="name" content="description" />
+            
+                <meta name="content" content="Lgarciaco1&#39;s interactive graph and data is a candlestick." />
+            
+        
+            
+                <meta name="name" content="url" />
+            
+                <meta name="content" content="https://plot.ly/~lgarciaco1/0/" />
+            
+        
+            
+                <meta name="name" content="og:title" />
+            
+                <meta name="content" content="candlestick made by Lgarciaco1 | plotly" />
+            
+        
+            
+                <meta name="name" content="og:type" />
+            
+                <meta name="content" content="website" />
+            
+        
+            
+                <meta name="name" content="og:description" />
+            
+                <meta name="content" content="Lgarciaco1&#39;s interactive graph and data is a candlestick." />
+            
+        
+            
+                <meta name="name" content="og:url" />
+            
+                <meta name="content" content="https://plot.ly/~lgarciaco1/0/" />
+            
+        
+            
+                <meta name="name" content="twitter:card" />
+            
+                <meta name="content" content="photo" />
+            
+        
+            
+                <meta name="name" content="twitter:title" />
+            
+                <meta name="content" content="candlestick made by Lgarciaco1 | plotly" />
+            
+        
+            
+                <meta name="name" content="twitter:url" />
+            
+                <meta name="content" content="https://plot.ly/~lgarciaco1/0/" />
+            
+        
+            
+                <meta name="name" content="twitter:description" />
+            
+                <meta name="content" content="Lgarciaco1&#39;s interactive graph and data is a candlestick." />
+            
+        
+            
+                <meta name="name" content="twitter:image" />
+            
+                <meta name="content" content="https://plot.ly/~lgarciaco1/0.png" />
+            
+        
+            
+                <meta name="name" content="twitter:site" />
+            
+                <meta name="content" content="@plotlygraphs" />
+            
+        
+
+        <title>candlestick made by Lgarciaco1 | plotly</title>
+        
+        <link href="/favicon.ico?v=2" rel="shortcut icon" />
+        <meta name="google-site-verification" content="RQedJu9gg9jKmoferbui7dZALhOVogbjQLcq-ZFaYeA" />
+        <meta name="p:domain_verify" content="01cb6adff6e96135d480e6d973608d44" />
+
+
+        <link type="text/css" rel="stylesheet" href="//plot.ly/static/webapp/styles/base.daaf797c073e.css"/>
+        <link type="text/css" rel="stylesheet" href="//plot.ly/static/webapp/fonts/unified/styles.fb13892b003a.css"/>
+        <link type="text/css" rel="stylesheet" href="//plot.ly/static/webapp/fonts/new-plots/styles.0ed37bf23409.css"/>
+        <link type="text/css" rel="stylesheet" href="//plot.ly/static/webapp/scripts/handsontable.full.min.5bd4befe13a0.css"/>
+        <link type="text/css" rel="stylesheet" href="//plot.ly/static/css/jsoneditor.5919e370f230.css"/>
+
+        
+
+        <script type="text/javascript">
+            window.ENV = {"DEBUG_MODE": false, "SOCIALAUTH_ENABLED": true, "SENTRY_ENABLED": false, "MIXPANEL_ENABLED": false, "MIXPANEL_KEY": "ad6df61d0b9400400b240631576c24d4", "GOOGLEANALYTICS_ENABLED": true, "GOOGLEANALYTICS_ACCOUNT": "UA-39373211-1", "SOCIALSHARING_ENABLED": true, "SOCIALFEEDBACK_ENABLED": true, "GOOGLEDRIVE_ENABLED": true, "GOOGLEDRIVE_CLIENT_ID": "945982715719-kj3ie7qge4ivf1d06fs0ibdn5ss1h8u8.apps.googleusercontent.com", "GOOGLEDRIVE_DEVELOPER_KEY": "", "STRIPE_ENABLED": true, "STRIPE_PUBLISHABLE_KEY": "pk_live_3uNuhrcWfjyK8n3DY3qDnh9W", "FACEBOOK_PAGE_APP_ID": "295021257505692", "SUBSCRIPTIONS_ENABLED": true, "WEBSOCKET_HOST": "websocket.plot.ly", "WEBSOCKET_PORT": 443, "DOMAIN_WEBAPP": "plot.ly", "DOMAIN_STREAM": "stream.plot.ly", "DASH_ENABLED": false, "DOMAIN_DASH_MANAGER": null, "DASH_MANAGER_URL": "https://plot.ly/dash", "BASE_URL": "https://plot.ly", "HOMEPAGE": "https://plot.ly/feed/", "RAVEN_CONFIG_WEBAPP": "https://8ad265ab1e524522a93b9678c9861392@app.getsentry.com/61730", "USE_LOCAL_DOCS": false, "BUCKETEER_ENABLED": true, "MARKETING_PAGES_ENABLED": true, "DOMAIN_API": "api.plot.ly", "SHAREPLOT_META_TAB_ENABLED": false, "API_URL": "https://api.plot.ly", "ANON_TIMEOUT": 86400, "STATIC_URL": "//plot.ly/static/", "USE_CONTENT_DELIVERY_NETWORKS": true, "AUTH_LDAP_ENABLED": false, "PLOTLY_LDAP_GROUP_SHARING": false, "AUTH_SAML_ENABLED": false, "AUTH_SAML_URL": null, "DISABLE_SIGNUP": false, "DISABLE_EMAIL_CHANGE": false, "SHOW_ALL_GRAPHS_ON_FEED": false, "USER_PASSWORD_MIN_LENGTH": 8, "USER_PASSWORD_MAX_LENGTH": 128, "PLOTLY_ENV": "prod", "PLOTLY_ONPREM_VERSION": "", "FEATURE_SETS": {"community": {"id": {"value": "community", "text": "Community Plan"}, "rank": {"value": 1, "text": null}, "current_stripe_plan_id_monthly": {"value": "0_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 0, "text": "$0 USD"}, "current_stripe_plan_id_annually": {"value": "0_usd_per_month_billed_annually", "text": null}, "current_stripe_plan_amount_annually": {"value": 0, "text": "$0 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": null}, "api_user_type": {"value": "free", "text": null}, "api_calls_per_day": {"value": 100, "text": "100 API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": 0}, "fold": {"total": 0, "private": 0}, "plot": {"total": 25, "private": 0}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": 0}, "external_image": {"total": -1, "private": 0}, "spectacle_presentation": {"total": -1, "private": 0}, "dashboard": {"total": -1, "private": 0}, "dash_app": {"total": -1, "private": 0}}, "text": "Create and share public charts."}, "collaborator_limit": {"value": 10, "text": "Add upto 10 collaborators per file."}, "dashboard_limit": {"value": 1, "text": "Create 1 dashboard"}, "custom_defaults": {"value": false, "text": null}, "upload_size_limit": {"value": 500000, "text": "500 kb file size upload limit"}, "help_support": {"value": false, "text": "Help center support"}, "stream_token_limit": {"value": 1, "text": "1 streaming token"}, "embedded_chart_views_per_chart": {"value": "500/day", "text": "500 embedded chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg"], "text": "PNG & JPEG export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to basic analysis features and stats"}, "fit_analyses": {"value": ["Linear", "Quadratic"], "text": "Linear and Quadratic curve fitting"}, "file_upload_types": {"value": ["xls", "xlsx", "csv"], "text": "Excel and CSV file upload"}, "allowed_to_proxy_plot": {"value": false, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": false, "text": null}, "workspace_allowed_font_families": {"value": ["Open Sans", "Arial", "Balto"], "text": "Open Sans, Arial and Balto font families"}, "workspace_allowed_colors": {"value": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf", "#444444", "#ffffff"], "text": "Default Plotly.js colors including muted blue and safty orange"}, "workspace_plotly_options": {"value": {"modeBarButtonsToRemove": ["toImage"]}, "text": null}, "is_active": {"value": true, "text": null}}, "student": {"id": {"value": "student", "text": "Student Plan - Includes all Professional Features"}, "rank": {"value": 2, "text": null}, "current_stripe_plan_id_monthly": {"value": "", "text": null}, "current_stripe_plan_amount_monthly": {"value": "", "text": ""}, "current_stripe_plan_id_annually": {"value": "student_99_per_year", "text": null}, "current_stripe_plan_amount_annually": {"value": 99, "text": "$99 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": null}, "api_user_type": {"value": "paid-personal", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": 2500, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": 5, "text": "Create 5 dashboards"}, "custom_defaults": {"value": false, "text": null}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "mdb", "res", "accdb", "sav", "zsav", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SPSS and MS Access file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": true, "text": null}}, "professional": {"id": {"value": "professional", "text": "Professional Plan - Includes all Community Features"}, "rank": {"value": 3, "text": null}, "current_stripe_plan_id_monthly": {"value": "25_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 25, "text": "$25 USD"}, "current_stripe_plan_id_annually": {"value": "19_usd_per_month_billed_annually", "text": null}, "current_stripe_plan_amount_annually": {"value": 19, "text": "$19 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": null}, "api_user_type": {"value": "paid-personal", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": 2500, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": 5, "text": "Create 5 dashboards"}, "custom_defaults": {"value": false, "text": null}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "sas7bdat", "mdb", "res", "accdb", "sav", "zsav", "m", "mat", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SAS, SPSS and m file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": false, "text": null}}, "professional_2016_08": {"id": {"value": "professional_2016_08", "text": "Professional Plan - Includes all Community Features"}, "rank": {"value": 4, "text": null}, "current_stripe_plan_id_monthly": {"value": "59_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 59, "text": "$59 USD"}, "current_stripe_plan_id_annually": {"value": "33_usd_per_month_billed_annually", "text": null}, "current_stripe_plan_amount_annually": {"value": 33, "text": "$33 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": null}, "api_user_type": {"value": "paid-personal", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": 2500, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": 5, "text": "Create 5 dashboards"}, "custom_defaults": {"value": false, "text": null}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "mdb", "res", "accdb", "sav", "zsav", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SPSS and MS Access file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": false, "text": null}}, "professional_2016_10": {"id": {"value": "professional_2016_10", "text": "Professional Plan - Includes all Community Features"}, "rank": {"value": 5, "text": null}, "current_stripe_plan_id_monthly": {"value": "89_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 89, "text": "$89 USD"}, "current_stripe_plan_id_annually": {"value": "personal_420_per_year", "text": null}, "current_stripe_plan_amount_annually": {"value": 420, "text": "$420 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": null}, "api_user_type": {"value": "paid-personal", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": 2500, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": 5, "text": "Create 5 dashboards"}, "custom_defaults": {"value": false, "text": null}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "mdb", "res", "accdb", "sav", "zsav", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SPSS and MS Access file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": true, "text": null}}, "professional_plus": {"id": {"value": "professional_plus", "text": "Professional Plus Plan - Includes all Professional Features"}, "rank": {"value": 6, "text": null}, "current_stripe_plan_id_monthly": {"value": "55_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 55, "text": "$55 USD"}, "current_stripe_plan_id_annually": {"value": "45_usd_per_month_billed_annually", "text": null}, "current_stripe_plan_amount_annually": {"value": 45, "text": "$45 USD"}, "current_stripe_student_coupon_id_annually": {"value": "13_usd_off_per_month_recurring", "text": "Student discount applies!"}, "api_user_type": {"value": "paid-professional", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": -1, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": -1, "text": "Create unlimited dashboards"}, "custom_defaults": {"value": true, "text": "Save custom default fonts and colors"}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited embedded chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "sas7bdat", "mdb", "res", "accdb", "sav", "zsav", "m", "mat", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SAS, SPSS and m file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": false, "text": null}}, "enterprise_cloud_2016_08": {"id": {"value": "enterprise_cloud_2016_08", "text": "Enterprise Cloud Plan - Includes all Professional Features"}, "rank": {"value": 7, "text": null}, "current_stripe_plan_id_monthly": {"value": "119_usd_per_month_billed_monthly", "text": null}, "current_stripe_plan_amount_monthly": {"value": 119, "text": "$119 USD"}, "current_stripe_plan_id_annually": {"value": "pro_840_per_year", "text": null}, "current_stripe_plan_amount_annually": {"value": 840, "text": "$840 USD"}, "current_stripe_student_coupon_id_annually": {"value": null, "text": ""}, "api_user_type": {"value": "paid-professional", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": -1, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": -1, "text": "Create unlimited dashboards"}, "custom_defaults": {"value": true, "text": "Save custom default fonts and colors"}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited embedded chart views per chart"}, "authentication": {"value": "basic", "text": null}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "sas7bdat", "mdb", "res", "accdb", "sav", "zsav", "m", "mat", "h5", "hdf5", "hdf"], "text": "SAS (.sas7bdat) and MATLAB (.mat) files"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": true, "text": null}}, "on_premise": {"id": {"value": "on_premise", "text": "On-Premise default plan"}, "rank": {"value": 8, "text": null}, "current_stripe_plan_id_monthly": {"value": "", "text": null}, "current_stripe_plan_amount_monthly": {"value": null, "text": null}, "current_stripe_plan_id_annually": {"value": "", "text": null}, "current_stripe_plan_amount_annually": {"value": 9550, "text": "$9,550 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": ""}, "api_user_type": {"value": "paid-professional", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": -1, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": -1, "text": "Create unlimited dashboards"}, "custom_defaults": {"value": true, "text": "Save custom default fonts and colors"}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited embedded chart views per chart"}, "authentication": {"value": ["basic", "LDAP", "SAML"], "text": "LDAP, SAML, & Active Directory integration"}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "sas7bdat", "mdb", "res", "accdb", "sav", "zsav", "m", "mat", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SAS, SPSS and m file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": false, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": true, "text": null}}, "on_premise_chart_creator": {"id": {"value": "on_premise_chart_creator", "text": "On-Premise chart creator"}, "rank": {"value": 9, "text": null}, "current_stripe_plan_id_monthly": {"value": "", "text": null}, "current_stripe_plan_amount_monthly": {"value": null, "text": null}, "current_stripe_plan_id_annually": {"value": "", "text": null}, "current_stripe_plan_amount_annually": {"value": 9550, "text": "$9,550 USD"}, "current_stripe_student_coupon_id_annually": {"value": "", "text": ""}, "api_user_type": {"value": "paid-professional", "text": null}, "api_calls_per_day": {"value": -1, "text": "Unlimited API calls per day"}, "file_limits": {"value": {"jupyter_notebook": {"total": -1, "private": -1}, "fold": {"total": -1, "private": -1}, "plot": {"total": -1, "private": -1}, "grid": {"total": -1, "private": -1}, "shapefile": {"total": -1, "private": -1}, "external_image": {"total": -1, "private": -1}, "spectacle_presentation": {"total": -1, "private": -1}, "dashboard": {"total": -1, "private": -1}, "dash_app": {"total": -1, "private": -1}}, "text": "Unlimited Private Files"}, "collaborator_limit": {"value": -1, "text": "Add unlimited collaborators."}, "dashboard_limit": {"value": -1, "text": "Create unlimited dashboards"}, "custom_defaults": {"value": true, "text": "Save custom default fonts and colors"}, "upload_size_limit": {"value": 5000000, "text": "5 MB file size upload limit"}, "help_support": {"value": true, "text": "Plotly team member support"}, "stream_token_limit": {"value": -1, "text": "Unlimited streaming tokens"}, "embedded_chart_views_per_chart": {"value": -1, "text": "Unlimited embedded chart views per chart"}, "authentication": {"value": ["basic", "LDAP", "SAML"], "text": "LDAP, SAML, & Active Directory integration"}, "file_export_types": {"value": ["png", "jpeg", "svg", "pdf", "eps", "webp", "emf"], "text": "Vector (SVG, PDF, EPS) export for your own charts"}, "file_upload_types": {"value": ["xls", "xlsx", "xml", "csv", "zip", "zipx", "tar", "gz", "gzip", "bz2", "cab", "sas7bdat", "mdb", "res", "accdb", "sav", "zsav", "m", "mat", "h5", "hdf5", "hdf"], "text": "HDF5, mdb, SAS, SPSS and m file upload"}, "allowed_to_proxy_plot": {"value": true, "text": null}, "allowed_to_create_plot": {"value": true, "text": null}, "alpha_workspace_access": {"value": true, "text": null}, "workspace_analyses": {"value": -1, "text": "access to all advanced analysis features"}, "fit_analyses": {"value": -1, "text": "All curve fitting types are available"}, "workspace_allowed_font_families": {"value": -1, "text": "All font families in the Plot editor including \"Courier New\" and \"Raleway\""}, "workspace_allowed_colors": {"value": -1, "text": "Custom color with access to HEX/RGBA color picker"}, "workspace_plotly_options": {"value": {}, "text": null}, "is_active": {"value": true, "text": null}}}, "REGEXPS": {"USERNAME": "^[.a-zA-Z0-9_-]+$", "IDLOCAL": "^(?:-[1-2]|[0-9]|[1-9]\\d+)$", "IDLOCAL_SRC": "^(?:[0-9]|[1-9]\\d+)$", "FID": "^([.a-zA-Z0-9_-]+):((?:-[1-2]|[0-9]|[1-9]\\d+))$", "FID_SRC": "^([.a-zA-Z0-9_-]+):((?:[0-9]|[1-9]\\d+))$", "SHARE_URL": "^/~(?P<username>[.a-zA-Z0-9_-]+)/(?P<idlocal>\\d+)$", "UID": "^[A-Za-z0-9]+$", "COL_REF_ALL": "^$", "COL_REF_EXCLUDE": "^(?:-|-([A-Za-z0-9]+|[A-Za-z0-9]+(?:,[A-Za-z0-9]+)+))$", "COL_REF_INCLUDE": "^([A-Za-z0-9]+(?:,[A-Za-z0-9]+)+)$", "COL_REF_SINGLE": "^([A-Za-z0-9]+)$", "COL_REF": "^(?:|(?:-|-(?:[A-Za-z0-9]+|[A-Za-z0-9]+(?:,[A-Za-z0-9]+)+))|(?:[A-Za-z0-9]+(?:,[A-Za-z0-9]+)+)|(?:[A-Za-z0-9]+))$", "ROW": "^(?:[0-9]|[1-9]\\d+)$", "SRC_QUERY_GROUPBY": "^\\?([A-Za-z0-9]+)=(.*)$", "SRC_QUERY_NAMES": "^\\?names$", "SRC_QUERY_ROW": "^\\?row=((?:[0-9]|[1-9]\\d+))$", "SRC_QUERY_ROWS": "^\\?rows=((?:[0-9]|[1-9]\\d+))?-((?:[0-9]|[1-9]\\d+))?$", "SRC_QUERY": "^(?:\\?(?:[A-Za-z0-9]+)=(?:.*)|\\?names|\\?row=(?:(?:[0-9]|[1-9]\\d+))|\\?rows=(?:(?:[0-9]|[1-9]\\d+))?-(?:(?:[0-9]|[1-9]\\d+))?)$", "SRC": "^((?:[.a-zA-Z0-9_-]+):(?:(?:[0-9]|[1-9]\\d+))):((?:|(?:-|-(?:[A-Za-z0-9]+|[A-Za-z0-9]+(?:,[A-Za-z0-9]+)+))|(?:[A-Za-z0-9]+(?:,[A-Za-z0-9]+)+)|(?:[A-Za-z0-9]+)))((?:\\?(?:[A-Za-z0-9]+)=(?:.*)|\\?names|\\?row=(?:(?:[0-9]|[1-9]\\d+))|\\?rows=(?:(?:[0-9]|[1-9]\\d+))?-(?:(?:[0-9]|[1-9]\\d+))?))?(\\*)?$", "COLLABORATOR_KEY": "^[A-Za-z0-9]+$"}, "CUSTOM_CLASSIFICATIONS": [], "CUSTOM_STYLE": "", "PLOTLY_MAPBOX_ATLAS_DEFAULT_STYLE_URL": "", "MAPBOX_DEFAULT_ACCESS_TOKEN": "pk.eyJ1IjoiY2hyaWRkeXAiLCJhIjoiY2lxMnVvdm5iMDA4dnhsbTQ5aHJzcGs0MyJ9.X9o_rzNLNesDxdra4neC_A", "CSRF_COOKIE_NAME": "plotly_csrf_pr", "PLOTLY_ONPREM_PRIVATE_MODE_ENABLED": false, "PLOTLY_OAUTH2_CLIENT_ID": "isFcew9naom2f1khSiMeAtzuOvHXHuLwhPsM7oPt", "PLOTLY_DASHBOARDSLY_DEFAULT_BANNER_TITLE": "", "PLOTLY_DASHBOARDSLY_DEFAULT_BANNER_LINKS": "[]", "PLOTLY_FEED_MIN_PLOT_QUALITY": 6, "STUNNING_LINK": "https://payments.stunning.co/payment_update/1463iyrypntdxmcprzyjfjtoa/", "CUSTOM_FONTS_ENABLED": false, "IS_IMPERSONATING": false};
+        </script>
+
+        
+
+    </head>
+    <body>
+        <div id="app-root">
+            <div class="loading-bars__wrapper">
+                <div class="loading-bars" style="border-radius: 4px">
+                    <img className="loading-bars__img" style="border-radius: 4px"
+                         src="//plot.ly/static/webapp/images/plotly-logo-loop.9359e84220d2.gif" />
+                </div>
+                <div class="loading-bars__text">
+                    Loading...
+                </div>
+            </div>
+        </div>
+
+        
+
+        
+        <script id="logged-in-user" type="application/json">{"profile_url": null, "avatar_url": null, "background_url": null, "bio": null, "nickname": null, "website": null, "stream_tokens": null, "feature_set_id": null, "csrf_token": null, "date_joined": null, "mapbox_access_tokens": null, "has_password": null, "username": "", "email": null, "is_active": null, "readonly": null, "social_auth_provider": null, "num_followers": null, "num_following": null, "stripe_customer_id": null, "is_admin": null, "teams": null, "ldap_dn": null, "kerberos_ticket_cache": null, "kerberos_ticket_expiry": null}</script>
+
+        
+        <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+        <script type="text/javascript">
+            Stripe.setPublishableKey(window.ENV.STRIPE_PUBLISHABLE_KEY);
+        </script>
+        
+
+        
+
+<script type="text/javascript">
+    window.MathJax = {
+        root: '/static/js/plugins/mathjax',
+        config: '//plot.ly/static/js/plugins/mathjax/config/TeX-AMS-MML_SVG.2b1f5dd083b6.js',
+        extensions: ['Safe.js']
+    };
+</script>
+<script type="text/javascript" src="//plot.ly/static/js/plugins/mathjax/MathJax.49565b9ce89c.js"></script>
+
+        <script type="text/javascript" src="//plot.ly/static/plotlyjs/build/plotlyjs-bundle.7315e6932bed.js"></script>
+        <script type="text/javascript" src="//plot.ly/static/streaming/build/streamhead-bundle.814322c80b8e.js"></script>
+        <script type="text/javascript" src="//plot.ly/static/webapp/scripts/xlsx.min.02099d7b7b1c.js"></script>
+        <script type="text/javascript" src="//plot.ly/static/webapp/scripts/handsontable.full.min.bcce346e447a.js"></script>
+        <script type="text/javascript" src="//plot.ly/static/webapp/scripts/app.2206a391151e.js"></script>
+        <img src="/Auth/csrf_pixel" style="display:none;" alt="csrf pixel" />
+
+        
+        
+
+        <script type="text/javascript">
+          (function() {
+            var mixpanelEnabled = false;
+          
+
+            /*
+             * mock mixpanel. This stubs out mixpanel in environments
+             * where it is not loaded while also allowing track testing
+             * in acceptance tests.
+             */
+
+             var isArray = Array.isArray;
+             var isObject = function (val) {
+                 return val !== null &&
+                     typeof val === 'object' &&
+                     isArray(val) === false &&
+                     Object.prototype.toString.call(val) === '[object Object]';
+             };
+
+            function mockFn() {
+                function fn() {
+                    var args = [].slice.call(arguments);
+                    fn.mock.calls.push(args);
+                }
+                fn.mock = {
+                    calls: []
+                };
+                return fn;
+            }
+
+            function MockMixpanel() {
+                this.track = mockFn();
+                this.identify = mockFn();
+                this.alias = mockFn();
+                this.get_distinct_id = mockFn();
+                this.register_once = mockFn();
+                this.people = {
+                    track_charge: mockFn(),
+                    set: mockFn()
+                };
+            }
+
+            MockMixpanel.prototype._mockCompileCalls = function mockCompileCalls(obj) {
+                var calls = {};
+
+                Object.keys(obj).forEach(function(key) {
+                    if (isObject(obj[key])) {
+                        calls[key] = mockCompileCalls(obj[key]);
+
+                    } else if (isObject(obj[key].mock)) {
+                        calls[key] = [].slice.call(obj[key].mock.calls);
+                    }
+                });
+
+                return calls;
+            };
+
+            MockMixpanel.prototype._mockClearCalls = function mockClearCalls(obj) {
+                Object.keys(obj).forEach(function(key) {
+                    if (isObject(obj[key])) {
+                        mockClearCalls(obj[key]);
+
+                    } else if (isObject(obj[key].mock)) {
+                        obj[key].mock.calls = [];
+                    }
+                });
+            };
+
+            MockMixpanel.prototype.mockClearCalls = function() {
+                this._mockClearCalls(this);
+            };
+
+            MockMixpanel.prototype.mockCompileCalls = function() {
+                return this._mockCompileCalls(this);
+            };
+
+            if (!mixpanelEnabled || (typeof window.mixpanel === 'undefined')) {
+                window.mixpanel = new MockMixpanel();
+            }
+          }())
+
+          PlotlyEnvironment.setMixpanel(mixpanel);
+        </script>
+
+
+        
+        <!-- google analytics -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-39373211-1']);
+            _gaq.push(['_setSiteSpeedSampleRate', 10]);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        
+
+        
+        <!-- Fastly analytics -->
+        <script defer src="https://www.fastly-insights.com/insights.js?k=247d767a-3d9c-442e-96dc-1058fdedb941"></script>
+
+            
+        
+    </body>
+</html>

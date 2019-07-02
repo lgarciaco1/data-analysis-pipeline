@@ -1,0 +1,9 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+def getInfo(url):
+    res=requests.get(url)
+    soup=BeautifulSoup(res.text,"html.parser")
+    rows = soup.find_all('tr', {'class': 'text-right'})
+    return rows
